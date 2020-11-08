@@ -5,3 +5,4 @@ USER admin
 WORKDIR /app
 COPY app /app
 CMD ["python", "app.py"] 
+CMD ["Prueba GIT 2"]
